@@ -1,0 +1,355 @@
+﻿#========================
+#KEmulator localization
+# 
+#      English
+#
+# @liang.wu
+#========================
+
+LOCAL_ENCODEING = UTF-8
+
+#Main Frame
+
+MENU_MIDLET = Tùy chọn
+MENU_TOOL   = Công cụ
+MENU_VIEW   = Hiển thị
+
+MENU_MIDLET_LOAD_JAR = Mở file jar...
+MENU_MIDLET_LOAD_WITH_CONSOLE = Sử dụng với bàn điều khiển
+MENU_MIDLET_LOAD_AUTO_PLAY = Tải tự động và chạy file rec
+MENU_MIDLET_RECENTLY = File jar gần đây
+MENU_MIDLET_2DENGINE = Dụng cụ minh họa 2D
+MENU_MDILET_3DENGINE = Dụng cụ minh họa 3D
+
+MENU_MIDLET_SUSPEND  = Tạm dừng
+MENU_MIDLET_RESUME   = Tiếp tục
+MENU_MIDLET_PAUSE_STEP = Tạm dừng/bước
+MENU_MIDLET_PLAY_RESUME= Chạy/chạy lại
+
+MENU_MIDLET_RESTART = Khởi động lại
+MENU_MIDLET_EXIT    = GiaiTri321.Pro
+
+
+MENU_VIEW_INFO   = Thông tin
+MENU_VIEW_XRAY   = Hiển thị X-Ray
+MENU_VIEW_TOP    = Luôn luôn trên Top
+MENU_VIEW_ROTATE = Xoay 90°
+MENU_VIEW_FORCE_PAINT = Quân sơn
+
+MENU_VIEW_KEYPAD   = Bàn phím ảo
+MENU_VIEW_WATCHES  = Đồng hồ
+MENU_VIEW_PROFILER = Hồ sơ
+MENU_VIEW_METHODS  = Phương pháp
+MENU_VIEW_MEMORY   = Hiển thị bộ nhớ
+MENU_VIEW_M3GVIEW  = Hiển thị M3G
+MENU_VIEW_SMS      = SMS Console
+MENU_VIEW_LOG      = Log
+
+MENU_VIEW_OPTIONS  = Tùy chọn...
+MENU_VIEW_HELP     = Trợ giúp
+MENU_VIEW_REGISTER = Thông tin đăng ký
+
+MENU_TOOL_ZOOMIN   = Phóng to
+MENU_TOOL_ZOOMOUT  = Thu nhỏ
+MENU_TOOL_INTERPOSE= Interpolation
+MENU_TOOL_INTER_NEAREST = NearestNeighbor
+MENU_TOOL_INTER_HIGH    = Chất lượng cao
+MENU_TOOL_INTER_LOW     = Chất lượng thấp
+
+MENU_TOOL_SPPEDUP   = Tăng tốc
+MENU_TOOL_SPPEDDONW = Giảm xuống
+
+MENU_TOOL_TICKSTART = Bắt đầu/tại dừng đánh dấu
+MENU_TOOL_TICKRESET = Đánh dấu lại
+MENU_TOOL_RECORD_KEY= Phím ghi hình
+MENU_TOOL_AUTO_PLAY = Cho phép tự động chạy
+MENU_TOOL_CAPTURE_FILE = Chụp vào file
+MENU_TOOL_CAPTURE_CLIP = Chụp vào ClipBoard
+
+MENU_TOOL_START_RECORD_AVI = Bắt đầu ghi phim AVI
+MENU_TOOL_STOP_RECORD_AVI  = Dừng ghi phim AVI
+
+MENU_TOOL_CONN_NETWORK    = Kết nối với mạng
+MENU_TOOL_DISCONN_NETWORK = Ngắt kết nối
+MENU_TOOL_CHANNEL_UP      = Kênh lên
+MENU_TOOL_CHANNEL_DOWN    = Kênh xuống
+
+MENU_TOOL_SHOW_TRACK_INFO = Hiển thị theo dõi thông tin
+
+#Command bar
+
+MAIN_INFO_BAR_UNLOADED = UNLOADED
+MAIN_INFO_BAR_RUNNING  = RUNNING
+MAIN_INFO_BAR_PAUSED   = PAUSED
+MAIN_INFO_BAR_NET      = NET
+
+#Dialog
+
+SAVE_TO_FILE   = Lưu vào file
+OPEN_JAR_FILE  = Mở file jar
+OPEN_REC_FILE  = Mở một tập hồ sơ
+LINK_JAR_FILE  = Chỉ định file jar
+
+DIALOG_OK      = OK
+DIALOG_CANCEL  = Hủy
+
+
+#Info show
+
+INFO_FRAME_POS   = Pos 
+INFO_FRAME_COLOR = Màu sắc
+INFO_FRAME_RECT  = R
+
+
+#About Frame
+
+ABOUT_FRAME_TITLE   = Giới thiệu & trợ giúp
+ABOUT_INFO_EMULATOR = Phần mềm giả lập Java
+ABOUT_INFO_2Bi = Được Việt hóa bởi 2Bi
+ABOUT_INFO_APIS     = Hỗ trợ các API
+
+ABOUT_SUGGESTION    = Gợi ý
+ABOUT_AUTHOR        = Tác giả
+ABOUT_CHACK_NEW_VER = Kiểm tra phiên bản mới
+ABOUT_ONLINE_MANUAL = Hướng dẫn trực tuyến
+
+
+#Bean Shell
+
+BSH_FRAME_FILE = Tập tin
+BSH_FRAME_HELP = Trợ giúp
+BSH_FRAME_DOCUMENT = Tài liệu
+BSH_FRAME_LOAD = Tải bản thảo ...
+
+
+#Keypad
+
+KEYPAD_FRAME_TITLE = Bàn phím ảo
+KEYPAD_FRAME_LSK   = Phím trái
+KEYPAD_FRAME_RSK   = Phím phải
+
+#Log Frame
+
+LOG_FRAME_TITLE = Khung logic
+
+
+#M3G View
+
+M3G_VIEW_TITLE   = Hiển thị M3G
+M3G_VIEW_CAMERA  = Camera
+M3G_VIEW_LIGHT   = Đèn
+M3G_VIEW_DISPLAY = Hiển thị
+
+M3G_VIEW_LIGHT_SCENE   = Cảnh đồ họa
+M3G_VIEW_LIGHT_VIEW    = Xem nhẹ
+M3G_VIEW_LIGHT_SETTING = Thiết lập ánh sáng
+
+M3G_VIEW_CAMERA_ORBIT  = Quỹ đạo
+M3G_VIEW_CAMERA_PAN    = Chỗ hạ xuống
+M3G_VIEW_CAMERA_DOLLY  = Dụng cụ khuấy
+M3G_VIEW_CAMERA_ZOOM   = Phóng to
+M3G_VIEW_CAMERA_PROJECTION  = Dự án
+M3G_VIEW_CAMERA_PERSPECTIVE = Dự án phối cảnh
+M3G_VIEW_CAMERA_PARALLEL    = Chiếu song song
+
+M3G_VIEW_CAMERA_CLIP_PLANES   = Máy bay kiểm soát
+M3G_VIEW_CAMEAR_FIELD_OF_VIEW = Hiển thị năng lượng
+M3G_VIEW_CAMEAR_POSITION      = Vị trí cammera
+M3G_VIEW_CAMEAR_RESET         = Khởi động lại camera
+
+M3G_VIEW_DISPLAY_COORDINATE   = Phối hợp các Axi
+M3G_VIEW_DISPLAY_SHOW_GRID    = Hiển thị dạng lưới
+M3G_VIEW_DISPLAY_SHOW_XRAY    = Hiển thị dạng Xray
+M3G_VIEW_DISPLAY_UPDATE_WORLD = Cập nhật Thế Giối
+
+#M3G View Dialog
+
+M3G_VIEW_DIALOG_FOVY   = Fovy
+M3G_VIEW_DIALOG_NEAR   = Gần 
+M3G_VIEW_DIALOG_FAR    = Xa
+
+#MemoryView
+
+MEMORY_VIEW_TITLE       = Xem bộ nhớ
+MEMORY_VIEW_UPDATE      = Cập nhật
+MEMORY_VIEW_AUTO_UPDATE = Tự động cập nhật
+MEMORY_VIEW_BYTECODE_SIZE = Kíc thước mã Byte:
+MEMORY_VIEW_TOTALMEM_SIZE = Tổng bộ nhớ đã sử dụng:
+MEMORY_VIEW_OBJECT_SIZE   = Kích thước đối tượng:
+MEMORY_VIEW_MAX_OBJECT_SIZE  = Kích thước tối đa đối tượng:
+MEMORY_VIEW_INTERVAL      = Khoảng (mili giây):
+
+MEMORY_VIEW_IMAGES  = Hình ảnh
+MEMORY_VIEW_SOUNDS  = Âm thanh
+
+MEMORY_VIEW_ZOOM    = Phóng to:
+MEMORY_VIEW_SORT    = Phân loại:
+MEMORY_VIEW_SIZE    = Kích thước:
+MEMORY_VIEW_ASCEND  = Tăng dần
+MEMORY_VIEW_IMAGES_DRAWN  = Hình ảnh vẽ
+MEMORY_VIEW_UNUSED_REGION = Khu vực chưa sủ dụng
+MEMORY_VIEW_RESET_IMAGE   = Đặt lại hình ảnh cách sử dụng
+MEMORY_VIEW_IMAGE_NEVER_DRAW      = Hình ảnh không bao giờ vẽ
+MEMORY_VIEW_RELEASED_IMAGES       = Phát hành hình ảnh
+MEMORY_VIEW_CLEAR_RELEASED_IMAGES = Xóa hình ảnh đã phát hành
+
+MEMORY_VIEW_SORT_REFERENCE  = Tham khảo
+MEMORY_VIEW_SORT_SIZE       = Kích thước
+MEMORY_VIEW_SORT_DRAW_COUNT = Tổng số 
+
+MEMORY_VIEW_SAVE_AS          = Lưu file dưới dạng ...
+MEMORY_VIEW_SAVE_TO_FILE     = Lưu vào file
+MEMORY_VIEW_SAVE_ALL         = Lưu tất cả các hình ...
+MEMORY_VIEW_SAVE_ALL_IMAGES  = Lưu tất cả các hình
+MEMORY_VIEW_CHOOSE_DIRECTORY = Chọn một thư mục
+
+MEMORY_VIEW_SOUND_START    = Bắt đầu
+MEMORY_VIEW_SOUND_PAUSE    = Tạm dừng
+MEMORY_VIEW_SOUND_STOP     = Dừng
+MEMORY_VIEW_SOUND_VOLUME   = Âm lượng:
+MEMORY_VIEW_SOUND_PROGRESS = Tiến trình:
+
+MEMORY_VIEW_INSTANCE     = Ví dụ
+MEMORY_VIEW_CONTENT_TYPE = Loại nội dung
+MEMORY_VIEW_STATE        = Nói
+MEMORY_VIEW_LOOP_COUNT   = Tổng số vòng
+MEMORY_VIEW_DATA_SIZE    = Kích thước dữ liệu
+
+MEMORY_VIEW_CLASS           = Class
+MEMORY_VIEW_INSTANCES       = Trường hợp
+MEMORY_VIEW_TOTAL_HEAP_SIZE = Total Heap Size
+MEMORY_VIEW_REFERENCE       = Tham khảo
+MEMORY_VIEW_SIZE            = Kích thước
+
+
+#SMS Console
+
+SMS_CONSOLE_TITLE   = SMS Console
+
+SMS_CONSOLE_SEND_TO = Send to midlet
+SMS_CONSOLE_CLEAR   = Xóa
+SMS_CONSOLE_SEND    = Gửi
+SMS_CONSOLE_RECEIVE = Receive from midlet
+SMS_CONSOLE_BLOCK   = Khối nhận được tin nhắn
+
+
+#Methods Frame
+
+METHOD_FRAME_TITLE           = Phương pháp
+
+METHOD_FRAME_RESET_CALLS     = Thiết lập lại cuộc gọi
+METHOD_FRAME_EXPORT_BYTECODE = Xuất khẩu mã byte
+METHOD_FRAME_SAVE_BYTECODE   = Lưu tất cả các phương pháp:
+METHOD_FRAME_SEARCH          = Tìm kiếm
+
+#Waches Frame
+
+WATCHES_FRAME_TITLE     = Class Watcher
+WATCHES_FRAME_PROFILER  = Hồ sơ màn hình
+
+
+#Option Frame
+
+OPTION_FRAME_TITLE = Tùy chọn & chi tiết
+
+OPTION_TAB_CUSTOM  = Chi tiết
+OPTION_TAB_KEYMAP  = Bàn phím
+OPTION_TAB_SYSFONT = Font hệ thống
+OPTION_TAB_SYSTEM  = Hệ thống
+OPTION_TAB_COREAPI = Lõi API
+OPTION_TAB_RECORDS = Records
+OPTION_TAB_NETWORK = Mạng
+
+OPTION_CUSTOM_DEVICE   = Device Select:
+OPTION_CUSTOM_ENCODING = Default Encoding:
+OPTION_CUSTOM_MAX_FPS  = Max FPS:
+
+OPTION_CUSTOM_PROPERTIES    = Custom Properties
+OPTION_CUSTOM_SCREEN_WIDTH  = Chiều cao:
+OPTION_CUSTOM_SCREEN_HEIGHT = Chiều rộng:
+OPTION_CUSTOM_KEY_LSK    = Phím bên trái:
+OPTION_CUSTOM_KEY_RSK    = Phím bên phải:
+OPTION_CUSTOM_KEY_MIDDLE = Fire/Middle:
+OPTION_CUSTOM_KEY_UP     = Lên:
+OPTION_CUSTOM_KEY_DOWN   = Xuống:
+OPTION_CUSTOM_KEY_LEFT   = Trái:
+OPTION_CUSTOM_KEY_RIGHT  = Phải:
+
+OPTION_KEYMAP_CONTROLLER = Người kiểm soát:
+OPTION_KEYMAP_REFRESH = Tải lại
+OPTION_KEYMAP_KEY_CACHE = Kích hoạt chìa khóa cache
+OPTION_KEYMAP_LSK   = Phím trái
+OPTION_KEYMAP_RSK   = Phím phải:
+OPTION_KEYMAP_NUM_1 = Số_1:
+OPTION_KEYMAP_NUM_2 = Số_2:
+OPTION_KEYMAP_NUM_3 = Số_3:
+OPTION_KEYMAP_NUM_4 = Số_4:
+OPTION_KEYMAP_NUM_5 = Số_5:
+OPTION_KEYMAP_NUM_6 = Số_6:
+OPTION_KEYMAP_NUM_7 = Số_7:
+OPTION_KEYMAP_NUM_8 = Số_8:
+OPTION_KEYMAP_NUM_9 = Số_9:
+OPTION_KEYMAP_NUM_0 = Số_0:
+OPTION_KEYMAP_KEY_* = Phím *:
+OPTION_KEYMAP_KEY_# = Phím #:
+OPTION_KEYMAP_PAD_LEFT  = Qua trái:
+OPTION_KEYMAP_PAD_RIGHT = Qua phải:
+OPTION_KEYMAP_PAD_UP    = Lên trên:
+OPTION_KEYMAP_PAD_DOWN  = Xuống dưới:
+OPTION_KEYMAP_PAD_MIDDLE= Trung tâm:
+
+OPTION_FONT_DEFAULT_FONT = Font mặc định:
+OPTION_FONT_LARGE_SIZE   = Kích thước lớn
+OPTION_FONT_MIDDLE_SIZE  = Kích thước trung bình:
+OPTION_FONT_SMALL_SIZE   = Kích thước nhỏ:
+OPTION_FONT_TEST_TEXT    = Kiểm tra văn bản:
+OPTION_FONT_TEST_TEXT_TXT= Đây là một ví dụ.
+
+OPTION_SYSTEM_ASSOCIATE = Liên kết với các tập tin *. jar.
+OPTION_SYSTEM_SHORTCUT  = Thêm phím tắt để kích chuột phải vào trình đơn.
+OPTION_SYSTEM_XRAY_BG   = Hiển thị X-Ray: chồng chéo hình ảnh.
+OPTION_SYSTEM_XRAY_CLIP = Hiển thị X-Ray: Hiển thị hình ảnh khu vực.
+OPTION_SYSTEM_INFO_COLOR   = Hiển thị thông tin: Hiển thị màu trong (R, G, B).
+OPTION_SYSTEM_RELEASED_IMG = Hiển thị bộ nhớ: phát hành hình ảnh.
+OPTION_SYSTEM_AUTOGEN_JAD  = Auto Generate Jad file with \"KEmu-Platform\".
+OPTION_SYSTEM_TRACK_NEW    = Track \"new/new[]...\" operations.
+OPTION_SYSTEM_TRACK_METHOD = Phương pháp theo dõi các cuộc gọi.
+
+OPTION_COREAPI_VIBRATION   = Kích hoạt rung APIs.
+OPTION_COREAPI_KEY_REPEAT  = Enable Canvas.keyRepeated(int).
+OPTION_COREAPI_FULLSCREEN  = Ignore Canvas.setFullScreenMode(boolean).
+
+OPTION_RECORDS_RMS_FOLDER   = Thư mục RMS:
+OPTION_RECORDS_RMS_TEXT     = Mọi ghi trong thư mục hiện hành:
+OPTION_RECORDS_SELECT_ALL   = Chọn tất cả
+OPTION_RECORDS_CLEAR_RECORD = Xóa mọi video đẫ ghi
+OPTION_RECORDS_OPEN_DIRECTORY = Chọn một thư mục cho rms
+OPTION_RECORDS_CHOOSE_DIR   = Chọn một thư mục
+
+OPTION_NETWORK_PROXY      = Proxy
+OPTION_NETWORK_PROXY_TYPE = ProxyType:
+OPTION_NETWORK_HOST       = Host:
+OPTION_NETWORK_PORT       = Port:
+OPTION_NETWORK_USERNAME   = Username:
+OPTION_NETWORK_PASSWORD   = Password:
+OPTION_NETWORK_DOMAIN     = Domain:
+OPTION_NETWORK_CONNECT    = Connect
+
+OPTION_NETWORK_PROXY_TEST  = Proxy Test
+OPTION_NETWORK_PROXY_EMPTY = Empty proxy host!
+OPTION_NETWORK_PROXY_UNIMP = Proxy test is underimplemented!
+
+
+#Message
+
+MESSAGE_BOX_TITLE  = KEmulator Alert
+
+LOAD_CLASSES_ERROR = Get Classes Failed!! Plz check the input jar or classpath.
+LOAD_MIDLET_ERROR  = Can not find MIDlet class. Plz check jad or use -midlet param.
+FAIL_LAUNCH_MIDLET = Fail to launch the MIDlet class:
+
+LOAD_GDIPLUS_ERROR = Can't load \" gdiplus.dll \" !!! Plz download & copy to %system32% path.
+
+REGISTER_TO		   = Register to
+FAIL_REGISTER_ERROR= Please purchase the software.
+

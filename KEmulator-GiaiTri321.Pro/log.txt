@@ -1,0 +1,554 @@
+KEmulator Lite v0.9.8 Running...
+Get classes from E:\game __java\Avatar258.jar
+Get class ix
+Get class c
+Get class bh
+Get class ha
+Get class bq
+Get class hj
+Get class fr
+Get class dz
+Get class js
+Get class ed
+Get class cl
+Get class ie
+Get class at
+Get class gm
+Get class kw
+Get class dg
+Get class bo
+Get class hh
+Get class j
+Get class bx
+Get class hq
+Get class fy
+Get class aa
+Get class eb
+Get class jz
+Get class ek
+Get class kd
+Get class il
+Get class cs
+Get class gt
+Get class be
+Get class ff
+Get class jg
+Get class dn
+Get class jp
+Get class dw
+Get class q
+Get class hx
+Get class ah
+Get class ga
+Get class ei
+Get class kk
+Get class er
+Get class cz
+Get class is
+Get class main.GameMidlet
+Get class bc
+Get class bl
+Get class he
+Get class fm
+Get class lf
+Get class du
+Get class jn
+Get class jw
+Get class x
+Get class cg
+Get class ao
+Get class gh
+Get class ax
+Get class gq
+Get class ey
+Get class kr
+Get class db
+Get class iz
+Get class e
+Get class hl
+Get class bs
+Get class ft
+Get class main.b
+Get class ju
+Get class ef
+Get class ig
+Get class cn
+Get class go
+Get class av
+Get class gx
+Get class ky
+Get class fa
+Get class jb
+Get class di
+Get class jk
+Get class dr
+Get class l
+Get class bz
+Get class hs
+Get class ac
+Get class ge
+Get class em
+Get class kf
+Get class cu
+Get class in
+Get class gv
+Get class bg
+Get class fh
+Get class la
+Get class dp
+Get class ji
+Get class dy
+Get class jr
+Get class s
+Get class cb
+Get class hz
+Get class gc
+Get class aj
+Get class gl
+Get class as
+Get class et
+Get class km
+Get class iu
+Get class df
+Get class hg
+Get class bn
+Get class fo
+Get class jy
+Get class ea
+Get class z
+Get class ib
+Get class ci
+Get class aq
+Get class gj
+Get class az
+Get class gs
+Get class kt
+Get class dd
+Get class dm
+Get class jf
+Get class g
+Get class p
+Get class bu
+Get class hn
+Get class fv
+Get class ag
+Get class eh
+Get class ka
+Get class cp
+Get class ii
+Get class ir
+Get class bb
+Get class gz
+Get class fc
+Get class dk
+Get class jd
+Get class dt
+Get class jm
+Get class n
+Get class w
+Get class hu
+Get class ae
+Get class gg
+Get class an
+Get class eo
+Get class kh
+Get class ip
+Get class cw
+Get class iy
+Get class da
+Get class hb
+Get class d
+Get class bi
+Get class lc
+Get class fj
+Get class fs
+Get class jt
+Get class u
+Get class cd
+Get class al
+Get class au
+Get class gn
+Get class ko
+Get class ev
+Get class iw
+Get class dh
+Get class ja
+Get class b
+Get class bp
+Get class hi
+Get class k
+Get class fq
+Get class ab
+Get class fz
+Get class ec
+Get class ck
+Get class id
+Get class ct
+Get class im
+Get class gu
+Get class kv
+Get class do
+Get class jh
+Get class i
+Get class r
+Get class hp
+Get class bw
+Get class fx
+Get class gb
+Get class ai
+Get class kc
+Get class ej
+Get class ik
+Get class cr
+Get class it
+Get class bd
+Get class fe
+Get class fn
+Get class jo
+Get class dv
+Get class y
+Get class hw
+Get class ch
+Get class ia
+Get class ap
+Get class gi
+Get class eq
+Get class kj
+Get class cy
+Get class dc
+Get class bk
+Get class hd
+Get class f
+Get class fl
+Get class le
+Get class fu
+Get class jv
+Get class cf
+Get class co
+Get class ih
+Get class gp
+Get class aw
+Get class ex
+Get class kq
+Get class fb
+Get class kz
+Get class jc
+Get class dj
+Get class hk
+Get class m
+Get class br
+Get class ht
+Get class ad
+Get class main.a
+Get class ee
+Get class if
+Get class cm
+Get class cv
+Get class io
+Get class gw
+Get class kx
+Get class lb
+Get class fi
+Get class dq
+Get class jj
+Get class t
+Get class by
+Get class hr
+Get class cc
+Get class ak
+Get class gd
+Get class el
+Get class ke
+Get class eu
+Get class kn
+Get class iv
+Get class bf
+Get class a
+Get class fg
+Get class fp
+Get class dx
+Get class jq
+Get class hy
+Get class ca
+Get class ic
+Get class cj
+Get class gk
+Get class ar
+Get class es
+Get class kl
+Get class ku
+Get class de
+Get class hf
+Get class h
+Get class bm
+Get class bv
+Get class ho
+Get class fw
+Get class jx
+Get class kb
+Get class cq
+Get class ij
+Get class ay
+Get class gr
+Get class ez
+Get class ks
+Get class fd
+Get class dl
+Get class je
+Get class o
+Get class bt
+Get class hm
+Get class hv
+Get class af
+Get class eg
+Get class ep
+Get class ki
+Get class cx
+Get class iq
+Get class gy
+Get class ba
+Get class hc
+Get class bj
+Get class fk
+Get class ld
+Get class jl
+Get class ds
+Get class v
+Get class ce
+Get class gf
+Get class am
+Get class kg
+Get class en
+Get class kp
+Get class ew
+Custom.jar.getResourceStream: /icon.png (320)
+Launch MIDlet class: main.GameMidlet
+Custom.jar.getResourceStream: provider.txt (1)
+Custom.jar.getResourceStream: agent.txt (1)
+openRecordStore 2.5.8null
+System.getProperty#com.nokia.mid*4imei=null
+System.getProperty#com.nokia.mid*3imei=null
+System.getProperty#com.nokia.mid*2imei=null
+System.getProperty#com.nokia.mid*1imei=null
+System.getProperty#com.nokia.mid*0imei=null
+System.getProperty#com.nokia.mid*/imei=null
+System.getProperty#com.nokia.mid*.imei=null
+System.getProperty#com.nokia.mid-imei=null
+System.getProperty#com.nokia.mid.imei=null
+System.getProperty#com.nokia.mid/imei=null
+Custom.jar.getResourceStream: normal/font/normal (411)
+Custom.jar.getResourceStream: normal/font.av (7168)
+Custom.jar.getResourceStream: normal/font/border (408)
+Custom.jar.getResourceStream: normal/font.av (7168)
+Custom.jar.getResourceStream: normal/font/arial (410)
+Custom.jar.getResourceStream: normal/font.av (7168)
+Custom.jar.getResourceStream: normal/font/black (411)
+Custom.jar.getResourceStream: normal/font.av (7168)
+Custom.jar.getResourceStream: normal/font/number (29)
+Custom.jar.getResourceStream: normal/font.av (7168)
+Custom.jar.getResourceStream: normal/font/smallRed (87)
+Custom.jar.getResourceStream: normal/font.av (7168)
+Custom.jar.getResourceStream: normal/font/smallYellow (87)
+Custom.jar.getResourceStream: normal/font.av (7168)
+Custom.jar.getResourceStream: normal/font/big (343)
+Custom.jar.getResourceStream: normal/font.av (7168)
+Custom.jar.getResourceStream: /normal/12Plus.png (754)
+Custom.jar.getResourceStream: normal/effect.av (13706)
+Custom.jar.getResourceStream: /normal/on/msg0.on (282)
+Custom.jar.getResourceStream: /normal/on/stat.on (288)
+System.getProperty#microedition.platform=SonyEricssonK800
+Custom.jar.getResourceStream: normal/effect.av (13706)
+Custom.jar.getResourceStream: /normal/lg.png (968)
+Custom.jar.getResourceStream: normal/main.av (7968)
+openRecordStore 2.5.8avatar
+getRecord 2.5.8avatar_1
+openRecordStore 2.5.8frp2qr
+getRecord 2.5.8frp2qr_1
+openRecordStore 2.5.8avlogin
+getRecord 2.5.8avlogin_1
+openRecordStore 2.5.8avatarShowName
+getRecord 2.5.8avatarShowName_1
+openRecordStore 2.5.8avatarSV
+Custom.jar.getResourceStream: normal/main.av (7968)
+Custom.jar.getResourceStream: /normal/l.png (1795)
+Custom.jar.getResourceStream: normal/bg.av (8552)
+Custom.jar.getResourceStream: normal/data/h0 (874)
+Custom.jar.getResourceStream: normal/data/data (17977)
+Custom.jar.getResourceStream: a.clazz (12498)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+>>index: 25
+Custom.jar.getResourceStream: normal/farm.av (4270)
+Custom.jar.getResourceStream: normal/farm.av (4270)
+>>saveLogin
+openRecordStore 2.5.8avlogin
+Custom.jar.getResourceStream: normal/effect.av (13706)
+openRecordStore 2.5.8plg
+getRecord 2.5.8plg_1
+openRecordStore 2.5.8frp1qr
+getRecord 2.5.8frp1qr_1
+openRecordStore 2.5.8frp2qr
+getRecord 2.5.8frp2qr_1
+>>clickNewGame: true    0
+System.getProperty#microedition.platform=SonyEricssonK800
+openRecordStore textrms
+deleteRecordStore textrms
+>>setProviderAndClientType: frp2qrxacmig_,nld1com.noig_,trfrp1qr3555d0824d870t250ig_,fvfrp1qr011233r8ddd0srg1t252ig_,trfrp1qr3555d0824d872t250ig_,xs0frp1qr11233r3yr783903t251ig_,trfrp1qr3555d0824d874t250ig_,fvfrp1qr011233r8ddd0srg5t252ig_,trfrp1qr3555d0824d876t250ig_,fvfrp1qr011233r8ddd0srg7t252ig_,trfrp1qr3555d0824d878t250ig_,xs0frp1qr11233r3yr783909t251    nld1    0nld1
+>>login: true    0
+>>loginaaaaaaaaaaaaaa: tmpusr_1498444187FH    uyw9xdVH
+SocketConnection: socket://112.213.85.106:19128
+host:112.213.85.106
+port:19128
+>>cmd: -4
+>>saveLogin
+openRecordStore 2.5.8avlogin
+>>money: 0    nguoichoi92495607
+>>2222222222222222222
+openRecordStore 2.5.8avatar
+openRecordStore 2.5.8avatarVs
+getRecord 2.5.8avatarVs_1
+openRecordStore 2.5.8avatarImgBig
+getRecord 2.5.8avatarImgBig_1
+openRecordStore 2.5.8avatarImgData
+getRecord 2.5.8avatarImgData_1
+openRecordStore 2.5.8partImageNormal
+getRecord 2.5.8partImageNormal_1
+openRecordStore 2.5.8avatarPart
+getRecord 2.5.8avatarPart_1
+openRecordStore 2.5.8avatarItemInfo
+getRecord 2.5.8avatarItemInfo_1
+openRecordStore 2.5.8avatarMapItemType
+getRecord 2.5.8avatarMapItemType_1
+openRecordStore 2.5.8avatarMapType
+getRecord 2.5.8avatarMapType_1
+>>readMapItem: 0
+openRecordStore 2.5.8avatarVs
+openRecordStore 2.5.8avatarImgBig
+openRecordStore 2.5.8partImageNormal
+Custom.jar.getResourceStream: normal/main.av (7968)
+Custom.jar.getResourceStream: normal/citiMap (884)
+Custom.jar.getResourceStream: normal/main.av (7968)
+Custom.jar.getResourceStream: normal/effect.av (13706)
+Custom.jar.getResourceStream: normal/effect.av (13706)
+>>doGetHandler: 10    -1
+openRecordStore 2.5.8avatarVSFarm
+getRecord 2.5.8avatarVSFarm_1
+openRecordStore 2.5.8avatarDataFarm
+getRecord 2.5.8avatarDataFarm_1
+openRecordStore 2.5.8avatarImgBigFarm0
+getRecord 2.5.8avatarImgBigFarm0_1
+openRecordStore 2.5.8avatarImgBigFarm1
+getRecord 2.5.8avatarImgBigFarm1_1
+openRecordStore 2.5.8avatarImgFarm
+getRecord 2.5.8avatarImgFarm_1
+openRecordStore 2.5.8avatarTreeInfoFarm
+getRecord 2.5.8avatarTreeInfoFarm_1
+>>saveLogin
+openRecordStore 2.5.8avlogin
+>>pppppppp: 215    0
+openRecordStore 2.5.8avatarVSFarm
+>>doJoinPark: 25   0
+Custom.jar.getResourceStream: a.clazz (12498)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+>>index: 25
+>>saveLogin
+openRecordStore 2.5.8avlogin
+Custom.jar.getResourceStream: a.clazz (12498)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+>>index: 24
+>>saveLogin
+openRecordStore 2.5.8avlogin
+Custom.jar.getResourceStream: a.clazz (12498)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+>>doUsingItem: 0    117
+>>doUsingItem: 1    117
+>>doUsingItem: 2    117
+>>doUsingItem: 3    117
+>>doUsingItem: 4    121
+>>doUsingItem: 4    117
+>>doUsingItem: 5    117
+>>doUsingItem: 6    117
+>>doUsingItem: 7    117
+>>doUsingItem: 8    117
+>>doUsingItem: 4    122
+>>doUsingItem: 4    112
+>>doUsingItem: 4    100
+>>doUsingItem: 0    112
+>>doUsingItem: 0    100
+>>doUsingItem: 1    112
+>>doUsingItem: 1    100
+>>doUsingItem: 2    112
+>>doUsingItem: 2    100
+>>doUsingItem: 2    123
+>>doUsingItem: 3    112
+>>doUsingItem: 3    100
+>>doUsingItem: 5    112
+>>doUsingItem: 5    100
+>>doUsingItem: 5    123
+>>doUsingItem: 4    114
+>>doUsingItem: 4    113
+>>doUsingItem: 4    112
+>>doUsingItem: 4    112
+>>doUsingItem: 4    112
+>>doUsingItem: 0    112
+>>doUsingItem: 1    112
+>>doUsingItem: 2    112
+>>doUsingItem: 3    112
+>>aaaaaaaaaa: az@1c21535    215
+>>addElement: 2
+>>aaaaaaaaaa: az@1c21535    215
+>>addElement: 2
+>>aaaaaaaaaa: az@1c21535    215
+>>addElement: 2
+>>aaaaaaaaaa: az@1c21535    215
+>>addElement: 2
+>>updateMoney: 26488    0   0
+>>aaaaaaaaaa: az@1c21535    215
+>>addElement: 2
+>>doJoinPark: 25   0
+Custom.jar.getResourceStream: a.clazz (12498)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+>>index: 25
+>>saveLogin
+openRecordStore 2.5.8avlogin
+Custom.jar.getResourceStream: a.clazz (12498)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+>>index: 24
+>>saveLogin
+openRecordStore 2.5.8avlogin
+Custom.jar.getResourceStream: a.clazz (12498)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+Custom.jar.getResourceStream: normal/home.av (49316)
+>>aaaaaaaaaa: az@1c21535    215
+>>addElement: 2
+>>addElement: 1
+>>aaaaaaaaaa: az@1c21535    215
+>>addElement: 2
+>>addElement: 1
+Notify Destroyed
+Exiting Emulator
