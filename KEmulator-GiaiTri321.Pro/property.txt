@@ -1,5 +1,5 @@
 #KEmulator properties
-#Wed Jun 28 11:25:58 GMT 2017
+#Fri Jul 21 04:45:58 GMT 2017
 2D_Graphics_Enginge=AWT
 3D_Graphics_Enginge=LWJ
 AlwaysOnTop=false
@@ -27,8 +27,8 @@ KEY_LSOFT=-6
 KEY_RIGHT=-4
 KEY_RSOFT=-7
 KEY_UP=-1
-LocationX=515
-LocationY=183
+LocationX=522
+LocationY=143
 MAP_KEY_DOWN=DOWN
 MAP_KEY_LEFT=LEFT
 MAP_KEY_LSOFT=F1
@@ -48,7 +48,7 @@ MAP_KEY_RIGHT=RIGHT
 MAP_KEY_RSOFT=F2
 MAP_KEY_STAR=Key *
 MAP_KEY_UP=UP
-MRUList0=E\:\\game __java\\Avatar258.jar
+MRUList0=C\:\\Users\\Richard\\Desktop\\game_java\\NLTB_Client14.jar
 MRUList1=E\:\\game __java\\Avatar258.jar
 MRUList2=E\:\\game __java\\NLTB_Client_03.jar
 MRUList3=
